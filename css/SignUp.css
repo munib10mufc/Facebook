@@ -1,0 +1,178 @@
+*
+{
+padding:0px;
+margin:0px;
+}
+#up{
+height:100px;
+width:100%;
+background-color:#3b5998;
+vertical-align:top;
+padding:0px;
+margin:0px;
+}
+#fblogo
+{
+padding-top:40px;
+color:white;
+padding-left:150px;
+font-size:40px;
+
+}
+.checkboxcss
+{
+background: white;
+border:1px double #DDD;
+color:#666;
+width:150px;
+outline:#000000 solid thin ;
+}
+
+.checkboxcss2
+{
+margin-top:5px;
+border: 1px double #DDD;
+background: white;
+color: #666;
+border-radius: 5px;
+width: 150px;
+
+}
+#upleft
+{
+
+width:60%;
+height:86px;
+float:left;
+}
+#upright2
+{
+
+width:50%;
+height:86px;
+float:right;
+}
+#upright1
+{
+
+width:50%;
+height:86px;
+float:left;
+
+}
+#upright
+{
+
+width:40%;
+height:86px;
+float:right;
+
+}
+body
+{
+
+font-family:arial;
+font-size:13px;
+
+}
+#center
+{
+width:100%;
+height:600px;
+background:#edeff4;
+float:right;
+}
+#centercontent
+{
+width:480px;
+height:525px;
+float:center;
+padding-left:200px;
+margin-left:300px;
+margin-top:20px;
+}
+.reg
+ {
+ width:100%;
+ padding-bottom:10px;
+ float:left;
+ }
+ #bordr
+{
+margin-top:20px;
+border-bottom: 1px solid #ccc;
+font-size: 1px;
+height: 8px;
+margin-left:160px;
+margin-bottom: 8px;
+width:70%;
+
+}
+.foot
+ {
+ 
+ width:80%;
+ padding-bottom:10px;
+ padding-left:150px;
+ font-size:13px;
+ }
+
+ a
+ {
+ 
+text-decoration:none !important;
+color:#3b5998;
+ 
+ }
+#contact label
+{
+display: inline-block;
+width: 100px;
+text-align: right;
+}
+
+#contact_submit{
+padding-left: 100px;
+}
+
+#contact div
+{
+margin-top: 1em;
+}
+textarea
+{ 
+vertical-align: top;
+height: 5em;
+}
+            
+.error
+{
+display: none;
+color: red;
+}       
+        
+.error_show
+{
+color: red;
+margin-left: 10px;
+}
+        
+input.invalid, textarea.invalid
+{
+border: 2px solid red;
+}
+        
+input.valid, textarea.valid
+{
+border: 2px solid green;
+}
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,529 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Header.master.cs" Inherits="facebook.Header" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>Facebook</title>
+    <script type="text/javascript" src="Scripts/jquery-1.11.1.min.js""></script>
+    
+    <link rel="short icon" href="~/images/favlogo.png" type="image/png" />
+    <script>
+        $(document).ready(function () {
+            $(".req_img2").click(function () {
+                $("#reqmenu").toggle();
+                $("#msgmenu").hide();
+                $("#notificationmenu").hide();
+                $("#privacymenu").hide();
+                $("#dropmenu").hide();
+
+            });
+
+            $(".message_img2").click(function () {
+                $("#msgmenu").toggle();
+                $("#notificationmenu").hide();
+                $("#reqmenu").hide();
+                $("#privacymenu").hide();
+                $("#dropmenu").hide();
+            });
+
+            $(".notification_img2").click(function () {
+                $("#notificationmenu").toggle();
+                $("#reqmenu").hide();
+                $("#msgmenu").hide();
+                $("#privacymenu").hide();
+                $("#dropmenu").hide();
+            });
+
+            $("#ContentPlaceHolder1").click(function () {
+                $("#notificationmenu").hide();
+                $("#reqmenu").hide();
+                $("#msgmenu").hide();
+                $("#privacymenu").hide();
+                $("#dropmenu").hide();
+            });
+            $(".status").click(function () {
+                $("#notificationmenu").hide();
+                $("#reqmenu").hide();
+                $("#msgmenu").hide();
+                $("#privacymenu").hide();
+                $("#dropmenu").hide();
+            });
+            $(".ads").click(function () {
+                $("#notificationmenu").hide();
+                $("#reqmenu").hide();
+                $("#msgmenu").hide();
+                $("#privacymenu").hide();
+                $("#dropmenu").hide();
+            });
+
+            $(".left_panel").click(function () {
+                $("#notificationmenu").hide();
+                $("#reqmenu").hide();
+                $("#msgmenu").hide();
+                $("#privacymenu").hide();
+                $("#dropmenu").hide();
+            });
+            $(".privacy2").click(function () {
+                $("#privacymenu").toggle();
+                $("#dropmenu").hide();
+                $("#notificationmenu").hide();
+                $("#reqmenu").hide();
+                $("#msgmenu").hide();
+            });
+
+            $(".drop_down2").click(function () {
+                $("#privacymenu").hide();
+                $("#dropmenu").toggle();
+                $("#notificationmenu").hide();
+                $("#reqmenu").hide();
+                $("#msgmenu").hide();
+            });
+
+            $(".lli").mouseenter(function () {
+                $(this).find("a").css("color", "white");
+            });
+            $(".lli").mouseleave(function () {
+                $(this).find("a").css("color", "black");
+            });
+        });
+    </script>
+    <style>
+    .img_size
+    {
+      width:22px;
+      height:22px;
+      border-radius:2px;   
+    }
+        a {
+        text-decoration:none;
+        }
+    .header
+    {
+        position:fixed;
+        left:0px;
+        top:0px;
+         margin: 0px 0px 0px 0px;
+        background-color:#3b5998;
+        height:40px ;
+        width:100%;
+         
+         font-family: 'Helvetica Neue', Helvetica, Arial, 'lucida grande',tahoma,verdana,arial,sans-serif;
+        -webkit-font-smoothing: antialiased;
+        border-bottom: 1px ridge #133783;
+       -webkit-box-shadow: 0 2px 2px -2px rgba(0, 0, 0, .52);
+        min-width: 981px;
+        padding:0px 0px 5px 0px;
+        z-index:3;
+    }
+    .fb_logo2
+    {
+      position:relative;
+      left:5%;
+      top:12px; 
+      cursor:pointer;
+    }
+    
+     .search_bar_prop
+    {
+        border:none; 
+        background:white;
+        outline:none;
+        font-size: 14px;
+        -webkit-font-smoothing: antialiased;
+        border-radius:2px;
+        line-height: 18.6px;
+        padding-left:5px;
+        padding-top:1px;   
+        }
+       .search_bar
+     {
+         
+         width:30%;
+        height:26px;
+         position:relative;
+         left:6.5%;
+         top:5px;
+      
+    }
+    
+    .search_img
+    {
+      position:relative;
+      left:4.3%;
+      top:12px;   
+    }
+    
+    .dp_head
+    {
+       position:relative;
+       left:20%;
+       top:12px;   
+    }
+    #text_name2
+    {
+        position:relative;
+        left:20%;
+        top:14px;
+        font-size:smaller;
+        font-weight:bold;
+        display: inline-block;
+        max-width: 175px;
+       
+        overflow: hidden;
+        padding-left: 8px;
+        padding-right: 0;
+        text-overflow: ellipsis;
+        vertical-align: top;
+        white-space: nowrap;
+        color:#fff;
+        padding:3px 3px 5px 3px;
+    }
+    #text_name2:hover
+    {
+        background-color: #4A4A8A;
+        
+    }
+    #text_name3
+    {
+           position:relative;
+           left:20%;
+           top:14px;
+           font-size:smaller;
+           font-weight:bold;
+            display: inline-block;
+            max-width: 175px;
+            overflow: hidden;
+            padding-left: 8px;
+            padding-right: 0;
+            text-overflow: ellipsis;
+            vertical-align: top;
+            white-space: nowrap;
+            color:#fff;
+            padding:3px 3px 5px 3px;
+    }
+    #text_name3:hover
+    {
+        background-color:  #4A4A8A;
+        
+    }
+    
+    .req_img2
+    {
+          position:relative;
+          left:24%;
+          top:13px; 
+          width:25px;
+          height:25px; 
+          cursor:pointer;
+    }
+    #reqmenu
+    {
+        border:1px solid;
+        border-top-width: 0px;
+        border-color:#C8C8C8;
+        border-radius: 3px;
+        position:fixed;
+        border-top-right-radius:0px;
+        border-top-left-radius:0px;
+        left:560px;
+        top:46px;
+        background-color:White;
+        width:440px;
+        height:450px;
+        display:none;
+        z-index:3;
+    }
+    
+    .reqmenu_1
+    {
+        color:#5d414e;
+        font-size:12px;
+        font-weight:600;
+        font-family:Arial;
+        border-bottom:1px solid #C8C8C8;
+        padding: 5px 0px 5px 5px;
+    }
+       
+    
+    .message_img2
+    {
+        position:relative;
+          left:24%;
+          top:13px; 
+          width:25px;
+          height:25px;
+          cursor:pointer;
+        
+    }
+    
+     #msgmenu
+    {
+        border:1px solid;
+        border-top-width: 0px;
+        border-color:#C8C8C8;
+        border-radius: 3px;
+        border-top-right-radius:0px;
+        border-top-left-radius:0px;
+        position:fixed;
+        left:560px;
+        top:46px;
+        background-color:White;
+        width:440px;
+        height:450px;
+        display:none;
+        z-index:3;
+    }
+    
+    
+     .notification_img2
+    {
+        position:relative;
+          left:24%;
+          top:13px; 
+          width:25px;
+          height:25px;
+       cursor:pointer;
+       
+       
+        
+    }
+    
+     #notificationmenu
+    {
+        border:1px solid;
+        border-top-width: 0px;
+        border-color:#C8C8C8;
+        border-radius: 3px;
+        border-top-right-radius:0px;
+        border-top-left-radius:0px;
+        position:fixed;
+        left:560px;
+        top:46px;
+        background-color:White;
+        width:440px;
+        height:450px;
+        display:none;
+        z-index:3;
+    }
+    
+    
+    
+      .privacy2
+    {
+          position:relative;
+          left:25%;
+          top:12px; 
+          width:22px;
+          height:22px;
+          cursor:pointer;
+    }
+    
+    #privacymenu
+    {
+        border:1px solid;
+        border-top-width: 0px;
+        border-color:#C8C8C8;
+        border-radius: 3px;
+        border-top-right-radius:0px;
+        border-top-left-radius:0px;
+        position:fixed;
+        left:682px;
+        top:46px;
+        background-color:White;
+        width:380px;
+        height:350px;
+        display:none;
+        z-index:3;
+    }
+    
+     .drop_down2
+    {
+          position:relative;
+          left:25.5%;
+          top:8px; 
+          width:15px;
+          height:15px;
+           cursor:pointer;
+    }
+     #dropmenu
+    {
+        border:1px solid;
+        border-top-width: 0px;
+        border-color:#C8C8C8;
+        border-radius: 3px;
+        border-top-right-radius:0px;
+        border-top-left-radius:0px;
+        position:fixed;
+        left:815px;
+        top:46px;
+        background-color:White;
+        width:200px;
+        height:250px;
+        display:none;
+        z-index:3;
+        font-family:Arial;
+        color:#c8c8c8;
+        font-size:12px;
+        padding:5px 40px 40px 0px;
+        
+    }
+     
+       .see_all {
+        border:1px solid;
+        border-right-width: 0px;
+         border-left-width: 0px;
+          border-bottom-width: 0px;
+        border-color:#C8C8C8;
+        height:20px;
+        position:fixed;
+        left:560px;
+        width:440px;
+        color:#375794;
+        top:450px;
+        text-align:center;
+        font-size:11px;
+        font-weight:600;
+        font-family:Arial;
+        padding-top:5px;
+        }
+    .lli
+    {
+        width:190px;
+        padding:6px 0px 6px 0px;
+        color:Black;
+        
+    }
+    
+    .lli:hover
+    {
+        color:White;
+        background-color:#3b5998;
+    }
+
+    
+    </style>
+    
+    
+    
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+
+    <div class="header">
+     <a href="Timeline.aspx">
+    <img src="images/facebooklogoF.png" class="fb_logo2 img_size"  /> </a>
+        <asp:TextBox class="search_bar search_bar_prop " placeholder="Search for people,places and things"  ID="TextBox1" runat="server"></asp:TextBox>
+   
+    <img src="images/search2.png" class="search_img img_size" />
+    
+    <a href="timeline.aspx">
+    <img src="images/dp.jpg" class="dp_head img_size" />
+    </a>
+    <a href="timeline.aspx" id="text_name2"><asp:Label runat="server" ID="searchpageunsername"></asp:Label></a>
+    <a href="Timeline.aspx" id="text_name3"> Home</a>
+    
+    
+    
+    <img src="images/request.png" class="req_img2 img_size" />
+    <div id="reqmenu">
+    <div class="reqmenu_1">
+    Friend Requests &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+    <a href="timeline.aspx" style="color:#3b5998; font-weight:lighter;">Find Friends</a>
+    &nbsp&nbsp&nbsp&nbsp
+    <a href="settings_.aspx" style="color:#3b5998; font-weight:lighter;">Settings</a>
+    </div>
+     <image src="/Images/requestimage.jpg" style="position:relative; left:13px; top:10px;"></image>
+         <div  class="see_all"><a href="friend_request.aspx">see all</a></div>
+    </div>
+
+
+    
+    <img src="images/messages.png" class="message_img2 img_size" />
+     <div id="msgmenu">
+    <div class="reqmenu_1">
+    Inbox &nbsp&nbsp
+    <span href="timeline.aspx" style="color:Gray; font-weight:lighter;">Others</span>
+    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+    <a href="timeline.aspx" style="color:#3b5998; font-weight:lighter;">Send a New Message</a>
+    </div>
+    <image src="/Images/msgimage.jpg" style="position:relative; left:13px; top:10px;"></image>
+          <div  class="see_all"><a href="messages.aspx">see all</a></div>
+    </div>
+
+
+    
+    <img src="images/notification.png" class="notification_img2 img_size" />
+    <div id="notificationmenu">
+
+    <div class="reqmenu_1">
+    Notifications &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+    &nbsp&nbsp
+    <a href="timeline.aspx" style="color:#3b5998; font-weight:lighter;">Mark as Read</a>
+    &nbsp&nbsp&nbsp&nbsp
+    <a href="settings_.aspx" style="color:#3b5998; font-weight:lighter;">Settings</a>
+    </div>
+    <image src="/Images/notificationimage.png" style="position:relative; left:14px; top:0px;"></image>
+         <div  class="see_all"><a href="Notifications.aspx">see all</a></div>
+    </div>
+
+    
+    <img src="images/privacy_img.png" class="privacy2" />
+    <div id="privacymenu">
+    <div class="reqmenu_1">
+    Privacy Shortcuts
+    </div>
+    </div>
+
+
+    
+    <img src="images/dropdown.jpg" class="drop_down2" />
+    <div id="dropmenu">
+    
+  
+  <ul>
+  <div class="lli"><a href="#home"style="color:Black;margin-left:10px;">Create Page</a></div>
+  <div class="lli"><a href="#news" style="color:Black;margin-left:10px;">Manage Page</a></div>
+  <hr />
+  <div class="lli"><a href="#contact" style="color:Black;margin-left:10px;">Create Adds</a></div>                                 
+  <div class="lli"><a href="#about"   style="color:Black;margin-left:10px;">Advertising on Facebook</a></div>                                    
+  <hr />                                                                        
+  <div class="lli"><a href="#contact" style="color:Black;margin-left:10px;">Activity Log</a></div>                                   
+  <div class="lli"><a href="settings_.aspx"   style="color:Black;margin-left:10px;">Settings</a></div>                                   
+  <div class="lli"><a href="fb.aspx"   style="color:Black;margin-left:10px;">Log Out</a></div>
+  <hr />
+  <div class="lli"><a href="#about"   style="color:Black; margin-left:10px;">Help</a></div>
+  <div class="lli"><a href="#about"   style="color:Black;margin-left:10px;">Report a Problem</a></div>
+
+  </ul>
+  
+  
+    </div>
+
+
+    </div>
+
+     <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        
+
+
+        </asp:ContentPlaceHolder>
+    
+   
+       
+    </div>
+    </form>
+</body>
+</html>
+

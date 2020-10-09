@@ -1,0 +1,214 @@
+*
+{
+padding:0px;
+margin:0px;
+
+
+}
+
+#up{
+height:100px;
+width:100%;
+background-color:#3b5998;
+vertical-align:top;
+padding:0px;
+margin:0px;
+}
+#fblogo
+{
+
+color:white;
+padding-top:40px;
+padding-left:150px;
+font-size:40px;
+}
+#bdy{
+
+background-color:#ffffff;
+width:100%;
+height:616px;
+
+}
+ #bordr
+{
+margin-top:0px;
+border-bottom: 1px solid #ccc;
+font-size: 1px;
+height: 8px;
+margin-left:20px;
+margin-bottom: 10px;
+width:70%;
+
+}
+#bdy1
+{
+margin-bottom: 0;
+-webkit-border-radius: 4px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 20px;
+border: 1px solid #ccc;
+float:center;
+width:55%;
+padding-left:15px;
+padding-right:15px;
+height:350px;
+}
+#bdy2
+{
+width:55%;
+height:50px;
+padding-left:270px;
+margin-top:10px;
+font-size:13px;
+}
+.email
+{
+display:block;
+float:left;
+padding-left:150px;
+padding-top:30px;
+width:100px;
+font-family:'lucida grande';
+font-size: 14px;
+cursor: pointer;
+color: #666;
+font-weight: bold;
+vertical-align: middle;
+}
+#pass
+{
+padding-left:150px;
+font-family:'lucida grande';
+font-size: 14px;
+color: #666;
+font-weight: bold;
+cursor: pointer;
+}
+#yellowbox
+{
+float:left;
+width:98%;
+padding:6px;
+margin-top:10px;
+background-color: #fff9d7;
+border: 1px solid #e2c822;
+font-size:13px;
+}
+#checkbox
+{
+
+padding-bottom: 3px;
+margin-top:25px;
+margin-bottom:0px;
+
+}
+
+#checkbox1
+{
+
+padding-bottom:3px;
+margin-top:0px;
+}
+#head
+{
+width:100%;
+float:top;
+background:#ffffff;
+padding-top:10px;
+border-bottom: 1px solid #aaa;
+font-size: 14px;
+font-family: 'lucida grande';
+}
+#sign
+{
+margin-top: 5px;
+float: left;
+}
+
+}
+#upleft
+{
+
+width:100%;
+height:86px;
+float:left;
+}
+#upright
+{
+
+width:40%;
+height:86px;
+float:right;
+
+}
+#upright2
+{
+
+width:50%;
+height:86px;
+float:right;
+}
+#upright1
+{
+
+width:50%;
+height:86px;
+float:left;
+
+}
+ .foot
+ {
+ 
+ width:80%;
+ padding-bottom:10px;
+ padding-left:20px;
+ font-size:13px;
+ 
+ }
+ a
+{
+text-decoration:none !important;
+color:#3b5998;
+}
+ 
+ 
+ <!-- Styles -->
+#contact label
+{
+}
+
+#contact_submit{
+padding-left: 100px;
+}
+
+#contact div
+{
+}
+textarea
+{ 
+}
+
+           
+.error
+{
+display: none;
+color: red;
+}       
+        
+.error_show
+{
+color: red;
+margin-left: 10px;
+}
+        
+input.invalid, textarea.invalid
+{
+border: 1px solid red;
+}
+        
+input.valid, textarea.valid
+{
+border: 1px solid green;
+}
+ 

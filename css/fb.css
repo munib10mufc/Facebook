@@ -1,0 +1,220 @@
+*
+{
+padding:0px;
+margin:0px;
+}
+#login
+{
+
+  height:10px;
+  width:15px;
+  
+  }
+#up{
+height:100px;
+width:100%;
+background-color:#3b5998;
+vertical-align:top;
+padding:0px;
+margin:0px;
+}
+a
+{
+text-decoration:none !important;
+color:#3b5998;
+}
+#fblogo
+{
+
+color:white;
+padding-top:40px;
+padding-left:150px;
+font-size:40px;
+
+}
+.checkboxcss
+{
+background: white;
+border:1px double #DDD;
+color:#666;
+width:150px;
+outline:#000000 solid thin ;
+}
+
+.checkboxcss2
+{
+margin-top:5px;
+border: 1px double #DDD;
+background: white;
+color: #666;
+border-radius: 5px;
+width: 150px;
+
+}
+#upleft
+{
+
+width:60%;
+height:86px;
+float:left;
+}
+#upright
+{
+
+width:40%;
+height:86px;
+float:right;
+
+}
+#left
+ {
+ width:60%;
+ height: 650px;
+ background-color:#edf0f5;
+ float:left;
+ padding-top:50px;
+ }
+ #left1
+ {
+ width:40%;
+ float:left;
+ padding-top:20px;
+
+ }
+ #left2
+ {
+ width:60%;
+ float:right;
+ padding-top:20px;
+ 
+ }
+#right
+ {
+ width:40%; 
+ height:680px;
+ background-color:#edf0f5;
+ float:left;
+ padding-top:20px;
+ }
+.break
+ { 
+ clear:both
+ }
+#below 
+{
+ height:135px;
+ width:100%;
+ background-color:#ffffff;
+ }
+ #signup
+ {
+ 
+ font-size:36px;
+ font-family:arial;
+ font-weight: normal;
+ 
+ }
+ h2
+ {
+ font-size:28px;
+ padding-left:150px;
+ line-height:36px;
+ 
+ 
+ 
+ }
+ h3
+ {
+ 
+ font-size:36px;
+ font-family:Freight Sans Bold;
+
+ 
+ }
+
+ .reg
+ {
+ 
+ width:100%;
+ padding-bottom:10px;
+
+ 
+ }
+ #bordr
+{
+margin-top:0px;
+border-bottom: 1px solid #ccc;
+font-size: 1px;
+height: 8px;
+margin-left:20px;
+margin-bottom: 10px;
+width:70%;
+
+}
+ .foot
+ {
+ 
+ width:80%;
+ padding-bottom:10px;
+ padding-left:20px;
+ font-size:14px;
+ 
+ }
+ body
+ {
+ 
+ font-family:arial;
+ font-size:13px;
+
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <!-- Styles -->
+#contact label
+{
+display: inline-block;
+width: 100px;
+text-align: right;
+}
+
+#contact_submit{
+padding-left: 100px;
+}
+
+#contact div
+{
+margin-top: 1em;
+}
+textarea
+{ 
+vertical-align: top;
+height: 5em;
+}
+            
+.error
+{
+display: none;
+color: red;
+}       
+        
+.error_show
+{
+color: red;
+margin-left: 10px;
+}
+        
+input.invalid, textarea.invalid
+{
+border: 2px solid red;
+}
+        
+input.valid, textarea.valid
+{
+border: 2px solid green;
+}

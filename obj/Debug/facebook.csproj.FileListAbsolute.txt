@@ -1,0 +1,249 @@
+c:\users\munib tahir\documents\visual studio 2013\Projects\facebook\facebook\bin\facebook.dll.config
+c:\users\munib tahir\documents\visual studio 2013\Projects\facebook\facebook\bin\facebook.dll
+c:\users\munib tahir\documents\visual studio 2013\Projects\facebook\facebook\bin\facebook.pdb
+c:\users\munib tahir\documents\visual studio 2013\Projects\facebook\facebook\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\munib tahir\documents\visual studio 2013\Projects\facebook\facebook\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\munib tahir\documents\visual studio 2013\Projects\facebook\facebook\bin\DotNetOpenAuth.AspNet.dll
+c:\users\munib tahir\documents\visual studio 2013\Projects\facebook\facebook\bin\DotNetOpenAuth.Core.dll
+c:\users\munib tahir\documents\visual studio 2013\Projects\facebook\facebook\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\munib tahir\documents\visual studio 2013\Projects\facebook\facebook\bin\DotNetOpenAuth.OAuth.dll
+c:\users\munib tahir\documents\visual studio 2013\Projects\facebook\facebook\bin\DotNetOpenAuth.OpenId.dll
+c:\users\munib tahir\documents\visual studio 2013\Projects\facebook\facebook\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\munib tahir\documents\visual studio 2013\Projects\facebook\facebook\bin\EntityFramework.dll
+c:\users\munib tahir\documents\visual studio 2013\Projects\facebook\facebook\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\munib tahir\documents\visual studio 2013\Projects\facebook\facebook\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\users\munib tahir\documents\visual studio 2013\Projects\facebook\facebook\bin\Microsoft.Web.Infrastructure.dll
+c:\users\munib tahir\documents\visual studio 2013\Projects\facebook\facebook\bin\System.Web.Providers.dll
+c:\users\munib tahir\documents\visual studio 2013\Projects\facebook\facebook\bin\EntityFramework.xml
+c:\users\munib tahir\documents\visual studio 2013\Projects\facebook\facebook\bin\DotNetOpenAuth.Core.xml
+c:\users\munib tahir\documents\visual studio 2013\Projects\facebook\facebook\bin\DotNetOpenAuth.OAuth.xml
+c:\users\munib tahir\documents\visual studio 2013\Projects\facebook\facebook\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\munib tahir\documents\visual studio 2013\Projects\facebook\facebook\bin\DotNetOpenAuth.OpenId.xml
+c:\users\munib tahir\documents\visual studio 2013\Projects\facebook\facebook\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\munib tahir\documents\visual studio 2013\Projects\facebook\facebook\bin\DotNetOpenAuth.AspNet.xml
+c:\users\munib tahir\documents\visual studio 2013\Projects\facebook\facebook\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+c:\users\munib tahir\documents\visual studio 2013\Projects\facebook\facebook\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\munib tahir\documents\visual studio 2013\Projects\facebook\facebook\obj\Debug\facebook.dll
+c:\users\munib tahir\documents\visual studio 2013\Projects\facebook\facebook\obj\Debug\facebook.pdb
+E:\uni\fast\5th sem\Web Programming\project\phase 2\facebook\facebook\bin\facebook.dll.config
+E:\uni\fast\5th sem\Web Programming\project\phase 2\facebook\facebook\bin\facebook.dll
+E:\uni\fast\5th sem\Web Programming\project\phase 2\facebook\facebook\bin\facebook.pdb
+E:\uni\fast\5th sem\Web Programming\project\phase 2\facebook\facebook\bin\AspNet.ScriptManager.jQuery.dll
+E:\uni\fast\5th sem\Web Programming\project\phase 2\facebook\facebook\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+E:\uni\fast\5th sem\Web Programming\project\phase 2\facebook\facebook\bin\DotNetOpenAuth.AspNet.dll
+E:\uni\fast\5th sem\Web Programming\project\phase 2\facebook\facebook\bin\DotNetOpenAuth.Core.dll
+E:\uni\fast\5th sem\Web Programming\project\phase 2\facebook\facebook\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\uni\fast\5th sem\Web Programming\project\phase 2\facebook\facebook\bin\DotNetOpenAuth.OAuth.dll
+E:\uni\fast\5th sem\Web Programming\project\phase 2\facebook\facebook\bin\DotNetOpenAuth.OpenId.dll
+E:\uni\fast\5th sem\Web Programming\project\phase 2\facebook\facebook\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\uni\fast\5th sem\Web Programming\project\phase 2\facebook\facebook\bin\EntityFramework.dll
+E:\uni\fast\5th sem\Web Programming\project\phase 2\facebook\facebook\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\uni\fast\5th sem\Web Programming\project\phase 2\facebook\facebook\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+E:\uni\fast\5th sem\Web Programming\project\phase 2\facebook\facebook\bin\Microsoft.Web.Infrastructure.dll
+E:\uni\fast\5th sem\Web Programming\project\phase 2\facebook\facebook\bin\System.Web.Providers.dll
+E:\uni\fast\5th sem\Web Programming\project\phase 2\facebook\facebook\bin\EntityFramework.xml
+E:\uni\fast\5th sem\Web Programming\project\phase 2\facebook\facebook\bin\DotNetOpenAuth.Core.xml
+E:\uni\fast\5th sem\Web Programming\project\phase 2\facebook\facebook\bin\DotNetOpenAuth.OAuth.xml
+E:\uni\fast\5th sem\Web Programming\project\phase 2\facebook\facebook\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\uni\fast\5th sem\Web Programming\project\phase 2\facebook\facebook\bin\DotNetOpenAuth.OpenId.xml
+E:\uni\fast\5th sem\Web Programming\project\phase 2\facebook\facebook\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\uni\fast\5th sem\Web Programming\project\phase 2\facebook\facebook\bin\DotNetOpenAuth.AspNet.xml
+E:\uni\fast\5th sem\Web Programming\project\phase 2\facebook\facebook\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+E:\uni\fast\5th sem\Web Programming\project\phase 2\facebook\facebook\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\uni\fast\5th sem\Web Programming\project\phase 2\facebook\facebook\obj\Debug\facebook.csprojResolveAssemblyReference.cache
+E:\uni\fast\5th sem\Web Programming\project\phase 2\facebook\facebook\obj\Debug\facebook.dll
+E:\uni\fast\5th sem\Web Programming\project\phase 2\facebook\facebook\obj\Debug\facebook.pdb
+C:\Users\Hamza Shafiq\Downloads\facebook\facebook\facebook\bin\facebook.dll.config
+C:\Users\Hamza Shafiq\Downloads\facebook\facebook\facebook\bin\facebook.dll
+C:\Users\Hamza Shafiq\Downloads\facebook\facebook\facebook\bin\facebook.pdb
+C:\Users\Hamza Shafiq\Downloads\facebook\facebook\facebook\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Hamza Shafiq\Downloads\facebook\facebook\facebook\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Hamza Shafiq\Downloads\facebook\facebook\facebook\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Hamza Shafiq\Downloads\facebook\facebook\facebook\bin\DotNetOpenAuth.Core.dll
+C:\Users\Hamza Shafiq\Downloads\facebook\facebook\facebook\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Hamza Shafiq\Downloads\facebook\facebook\facebook\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Hamza Shafiq\Downloads\facebook\facebook\facebook\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Hamza Shafiq\Downloads\facebook\facebook\facebook\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Hamza Shafiq\Downloads\facebook\facebook\facebook\bin\EntityFramework.dll
+C:\Users\Hamza Shafiq\Downloads\facebook\facebook\facebook\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Hamza Shafiq\Downloads\facebook\facebook\facebook\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Hamza Shafiq\Downloads\facebook\facebook\facebook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hamza Shafiq\Downloads\facebook\facebook\facebook\bin\System.Web.Providers.dll
+C:\Users\Hamza Shafiq\Downloads\facebook\facebook\facebook\bin\System.Net.Http.dll
+C:\Users\Hamza Shafiq\Downloads\facebook\facebook\facebook\bin\EntityFramework.xml
+C:\Users\Hamza Shafiq\Downloads\facebook\facebook\facebook\bin\DotNetOpenAuth.Core.xml
+C:\Users\Hamza Shafiq\Downloads\facebook\facebook\facebook\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Hamza Shafiq\Downloads\facebook\facebook\facebook\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Hamza Shafiq\Downloads\facebook\facebook\facebook\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Hamza Shafiq\Downloads\facebook\facebook\facebook\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Hamza Shafiq\Downloads\facebook\facebook\facebook\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Hamza Shafiq\Downloads\facebook\facebook\facebook\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\Hamza Shafiq\Downloads\facebook\facebook\facebook\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Hamza Shafiq\Downloads\facebook\facebook\facebook\bin\System.Net.Http.xml
+C:\Users\Hamza Shafiq\Downloads\facebook\facebook\facebook\obj\Debug\facebook.csprojResolveAssemblyReference.cache
+C:\Users\Hamza Shafiq\Downloads\facebook\facebook\facebook\obj\Debug\facebook.dll
+C:\Users\Hamza Shafiq\Downloads\facebook\facebook\facebook\obj\Debug\facebook.pdb
+D:\5th Semester\Web-Programming\facebook\facebook\facebook\bin\facebook.dll
+D:\5th Semester\Web-Programming\facebook\facebook\facebook\bin\facebook.pdb
+D:\5th Semester\Web-Programming\facebook\facebook\facebook\bin\AspNet.ScriptManager.jQuery.dll
+D:\5th Semester\Web-Programming\facebook\facebook\facebook\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\5th Semester\Web-Programming\facebook\facebook\facebook\bin\DotNetOpenAuth.AspNet.dll
+D:\5th Semester\Web-Programming\facebook\facebook\facebook\bin\DotNetOpenAuth.Core.dll
+D:\5th Semester\Web-Programming\facebook\facebook\facebook\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\5th Semester\Web-Programming\facebook\facebook\facebook\bin\DotNetOpenAuth.OAuth.dll
+D:\5th Semester\Web-Programming\facebook\facebook\facebook\bin\DotNetOpenAuth.OpenId.dll
+D:\5th Semester\Web-Programming\facebook\facebook\facebook\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\5th Semester\Web-Programming\facebook\facebook\facebook\bin\EntityFramework.dll
+D:\5th Semester\Web-Programming\facebook\facebook\facebook\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\5th Semester\Web-Programming\facebook\facebook\facebook\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\5th Semester\Web-Programming\facebook\facebook\facebook\bin\Microsoft.Web.Infrastructure.dll
+D:\5th Semester\Web-Programming\facebook\facebook\facebook\bin\System.Web.Providers.dll
+D:\5th Semester\Web-Programming\facebook\facebook\facebook\bin\EntityFramework.xml
+D:\5th Semester\Web-Programming\facebook\facebook\facebook\bin\DotNetOpenAuth.Core.xml
+D:\5th Semester\Web-Programming\facebook\facebook\facebook\bin\DotNetOpenAuth.OAuth.xml
+D:\5th Semester\Web-Programming\facebook\facebook\facebook\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\5th Semester\Web-Programming\facebook\facebook\facebook\bin\DotNetOpenAuth.OpenId.xml
+D:\5th Semester\Web-Programming\facebook\facebook\facebook\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\5th Semester\Web-Programming\facebook\facebook\facebook\bin\DotNetOpenAuth.AspNet.xml
+D:\5th Semester\Web-Programming\facebook\facebook\facebook\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+D:\5th Semester\Web-Programming\facebook\facebook\facebook\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\5th Semester\Web-Programming\facebook\facebook\facebook\obj\Debug\facebook.dll
+D:\5th Semester\Web-Programming\facebook\facebook\facebook\obj\Debug\facebook.pdb
+C:\Users\Munib Tahir\Desktop\munib hamza\facebook\facebook\facebook\bin\facebook.dll.config
+C:\Users\Munib Tahir\Desktop\munib hamza\facebook\facebook\facebook\bin\facebook.dll
+C:\Users\Munib Tahir\Desktop\munib hamza\facebook\facebook\facebook\bin\facebook.pdb
+C:\Users\Munib Tahir\Desktop\munib hamza\facebook\facebook\facebook\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Munib Tahir\Desktop\munib hamza\facebook\facebook\facebook\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Munib Tahir\Desktop\munib hamza\facebook\facebook\facebook\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Munib Tahir\Desktop\munib hamza\facebook\facebook\facebook\bin\DotNetOpenAuth.Core.dll
+C:\Users\Munib Tahir\Desktop\munib hamza\facebook\facebook\facebook\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Munib Tahir\Desktop\munib hamza\facebook\facebook\facebook\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Munib Tahir\Desktop\munib hamza\facebook\facebook\facebook\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Munib Tahir\Desktop\munib hamza\facebook\facebook\facebook\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Munib Tahir\Desktop\munib hamza\facebook\facebook\facebook\bin\EntityFramework.dll
+C:\Users\Munib Tahir\Desktop\munib hamza\facebook\facebook\facebook\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Munib Tahir\Desktop\munib hamza\facebook\facebook\facebook\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Munib Tahir\Desktop\munib hamza\facebook\facebook\facebook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Munib Tahir\Desktop\munib hamza\facebook\facebook\facebook\bin\System.Web.Providers.dll
+C:\Users\Munib Tahir\Desktop\munib hamza\facebook\facebook\facebook\bin\EntityFramework.xml
+C:\Users\Munib Tahir\Desktop\munib hamza\facebook\facebook\facebook\bin\DotNetOpenAuth.Core.xml
+C:\Users\Munib Tahir\Desktop\munib hamza\facebook\facebook\facebook\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Munib Tahir\Desktop\munib hamza\facebook\facebook\facebook\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Munib Tahir\Desktop\munib hamza\facebook\facebook\facebook\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Munib Tahir\Desktop\munib hamza\facebook\facebook\facebook\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Munib Tahir\Desktop\munib hamza\facebook\facebook\facebook\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Munib Tahir\Desktop\munib hamza\facebook\facebook\facebook\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\Munib Tahir\Desktop\munib hamza\facebook\facebook\facebook\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Munib Tahir\Desktop\munib hamza\facebook\facebook\facebook\obj\Debug\facebook.dll
+C:\Users\Munib Tahir\Desktop\munib hamza\facebook\facebook\facebook\obj\Debug\facebook.pdb
+C:\Users\Munib Tahir\Desktop\munib hamza\facebook\facebook\facebook\obj\Debug\facebook.csprojResolveAssemblyReference.cache
+C:\Users\Munib Tahir\Desktop\munib hamza - Copy\facebook\facebook\facebook\bin\facebook.dll.config
+C:\Users\Munib Tahir\Desktop\munib hamza - Copy\facebook\facebook\facebook\bin\facebook.dll
+C:\Users\Munib Tahir\Desktop\munib hamza - Copy\facebook\facebook\facebook\bin\facebook.pdb
+C:\Users\Munib Tahir\Desktop\munib hamza - Copy\facebook\facebook\facebook\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Munib Tahir\Desktop\munib hamza - Copy\facebook\facebook\facebook\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Munib Tahir\Desktop\munib hamza - Copy\facebook\facebook\facebook\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Munib Tahir\Desktop\munib hamza - Copy\facebook\facebook\facebook\bin\DotNetOpenAuth.Core.dll
+C:\Users\Munib Tahir\Desktop\munib hamza - Copy\facebook\facebook\facebook\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Munib Tahir\Desktop\munib hamza - Copy\facebook\facebook\facebook\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Munib Tahir\Desktop\munib hamza - Copy\facebook\facebook\facebook\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Munib Tahir\Desktop\munib hamza - Copy\facebook\facebook\facebook\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Munib Tahir\Desktop\munib hamza - Copy\facebook\facebook\facebook\bin\EntityFramework.dll
+C:\Users\Munib Tahir\Desktop\munib hamza - Copy\facebook\facebook\facebook\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Munib Tahir\Desktop\munib hamza - Copy\facebook\facebook\facebook\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Munib Tahir\Desktop\munib hamza - Copy\facebook\facebook\facebook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Munib Tahir\Desktop\munib hamza - Copy\facebook\facebook\facebook\bin\System.Web.Providers.dll
+C:\Users\Munib Tahir\Desktop\munib hamza - Copy\facebook\facebook\facebook\bin\EntityFramework.xml
+C:\Users\Munib Tahir\Desktop\munib hamza - Copy\facebook\facebook\facebook\bin\DotNetOpenAuth.Core.xml
+C:\Users\Munib Tahir\Desktop\munib hamza - Copy\facebook\facebook\facebook\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Munib Tahir\Desktop\munib hamza - Copy\facebook\facebook\facebook\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Munib Tahir\Desktop\munib hamza - Copy\facebook\facebook\facebook\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Munib Tahir\Desktop\munib hamza - Copy\facebook\facebook\facebook\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Munib Tahir\Desktop\munib hamza - Copy\facebook\facebook\facebook\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Munib Tahir\Desktop\munib hamza - Copy\facebook\facebook\facebook\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\Munib Tahir\Desktop\munib hamza - Copy\facebook\facebook\facebook\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Munib Tahir\Desktop\munib hamza - Copy\facebook\facebook\facebook\obj\Debug\facebook.dll
+C:\Users\Munib Tahir\Desktop\munib hamza - Copy\facebook\facebook\facebook\obj\Debug\facebook.pdb
+C:\Users\Munib Tahir\Desktop\munib hamza - Copy\facebook\facebook\facebook\obj\Debug\facebook.csprojResolveAssemblyReference.cache
+G:\munib hamza - Copy\facebook\facebook\facebook\bin\facebook.dll
+G:\munib hamza - Copy\facebook\facebook\facebook\bin\facebook.pdb
+G:\munib hamza - Copy\facebook\facebook\facebook\bin\AspNet.ScriptManager.jQuery.dll
+G:\munib hamza - Copy\facebook\facebook\facebook\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+G:\munib hamza - Copy\facebook\facebook\facebook\bin\DotNetOpenAuth.AspNet.dll
+G:\munib hamza - Copy\facebook\facebook\facebook\bin\DotNetOpenAuth.Core.dll
+G:\munib hamza - Copy\facebook\facebook\facebook\bin\DotNetOpenAuth.OAuth.Consumer.dll
+G:\munib hamza - Copy\facebook\facebook\facebook\bin\DotNetOpenAuth.OAuth.dll
+G:\munib hamza - Copy\facebook\facebook\facebook\bin\DotNetOpenAuth.OpenId.dll
+G:\munib hamza - Copy\facebook\facebook\facebook\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+G:\munib hamza - Copy\facebook\facebook\facebook\bin\EntityFramework.dll
+G:\munib hamza - Copy\facebook\facebook\facebook\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\munib hamza - Copy\facebook\facebook\facebook\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+G:\munib hamza - Copy\facebook\facebook\facebook\bin\Microsoft.Web.Infrastructure.dll
+G:\munib hamza - Copy\facebook\facebook\facebook\bin\System.Web.Providers.dll
+G:\munib hamza - Copy\facebook\facebook\facebook\bin\EntityFramework.xml
+G:\munib hamza - Copy\facebook\facebook\facebook\bin\DotNetOpenAuth.Core.xml
+G:\munib hamza - Copy\facebook\facebook\facebook\bin\DotNetOpenAuth.OAuth.xml
+G:\munib hamza - Copy\facebook\facebook\facebook\bin\DotNetOpenAuth.OAuth.Consumer.xml
+G:\munib hamza - Copy\facebook\facebook\facebook\bin\DotNetOpenAuth.OpenId.xml
+G:\munib hamza - Copy\facebook\facebook\facebook\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+G:\munib hamza - Copy\facebook\facebook\facebook\bin\DotNetOpenAuth.AspNet.xml
+G:\munib hamza - Copy\facebook\facebook\facebook\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+G:\munib hamza - Copy\facebook\facebook\facebook\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\munib hamza - Copy\facebook\facebook\facebook\obj\Debug\facebook.dll
+G:\munib hamza - Copy\facebook\facebook\facebook\obj\Debug\facebook.pdb
+E:\munib hamza - 12-9-2014 work with khzyer files\facebook\facebook\facebook\bin\facebook.dll.config
+E:\munib hamza - 12-9-2014 work with khzyer files\facebook\facebook\facebook\bin\facebook.dll
+E:\munib hamza - 12-9-2014 work with khzyer files\facebook\facebook\facebook\bin\facebook.pdb
+E:\munib hamza - 12-9-2014 work with khzyer files\facebook\facebook\facebook\bin\AspNet.ScriptManager.jQuery.dll
+E:\munib hamza - 12-9-2014 work with khzyer files\facebook\facebook\facebook\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+E:\munib hamza - 12-9-2014 work with khzyer files\facebook\facebook\facebook\bin\DotNetOpenAuth.AspNet.dll
+E:\munib hamza - 12-9-2014 work with khzyer files\facebook\facebook\facebook\bin\DotNetOpenAuth.Core.dll
+E:\munib hamza - 12-9-2014 work with khzyer files\facebook\facebook\facebook\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\munib hamza - 12-9-2014 work with khzyer files\facebook\facebook\facebook\bin\DotNetOpenAuth.OAuth.dll
+E:\munib hamza - 12-9-2014 work with khzyer files\facebook\facebook\facebook\bin\DotNetOpenAuth.OpenId.dll
+E:\munib hamza - 12-9-2014 work with khzyer files\facebook\facebook\facebook\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\munib hamza - 12-9-2014 work with khzyer files\facebook\facebook\facebook\bin\EntityFramework.dll
+E:\munib hamza - 12-9-2014 work with khzyer files\facebook\facebook\facebook\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\munib hamza - 12-9-2014 work with khzyer files\facebook\facebook\facebook\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+E:\munib hamza - 12-9-2014 work with khzyer files\facebook\facebook\facebook\bin\Microsoft.Web.Infrastructure.dll
+E:\munib hamza - 12-9-2014 work with khzyer files\facebook\facebook\facebook\bin\System.Web.Providers.dll
+E:\munib hamza - 12-9-2014 work with khzyer files\facebook\facebook\facebook\bin\EntityFramework.xml
+E:\munib hamza - 12-9-2014 work with khzyer files\facebook\facebook\facebook\bin\DotNetOpenAuth.Core.xml
+E:\munib hamza - 12-9-2014 work with khzyer files\facebook\facebook\facebook\bin\DotNetOpenAuth.OAuth.xml
+E:\munib hamza - 12-9-2014 work with khzyer files\facebook\facebook\facebook\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\munib hamza - 12-9-2014 work with khzyer files\facebook\facebook\facebook\bin\DotNetOpenAuth.OpenId.xml
+E:\munib hamza - 12-9-2014 work with khzyer files\facebook\facebook\facebook\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\munib hamza - 12-9-2014 work with khzyer files\facebook\facebook\facebook\bin\DotNetOpenAuth.AspNet.xml
+E:\munib hamza - 12-9-2014 work with khzyer files\facebook\facebook\facebook\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+E:\munib hamza - 12-9-2014 work with khzyer files\facebook\facebook\facebook\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\munib hamza - 12-9-2014 work with khzyer files\facebook\facebook\facebook\obj\Debug\facebook.dll
+E:\munib hamza - 12-9-2014 work with khzyer files\facebook\facebook\facebook\obj\Debug\facebook.pdb
+E:\munib hamza - 12-9-2014 work with khzyer files\facebook\facebook\facebook\obj\Debug\facebook.csprojResolveAssemblyReference.cache
+E:\uni\fast\5th sem\Web Programming\project\facebook project\facebook\facebook\facebook\bin\facebook.dll.config
+E:\uni\fast\5th sem\Web Programming\project\facebook project\facebook\facebook\facebook\bin\facebook.dll
+E:\uni\fast\5th sem\Web Programming\project\facebook project\facebook\facebook\facebook\bin\facebook.pdb
+E:\uni\fast\5th sem\Web Programming\project\facebook project\facebook\facebook\facebook\bin\AspNet.ScriptManager.jQuery.dll
+E:\uni\fast\5th sem\Web Programming\project\facebook project\facebook\facebook\facebook\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+E:\uni\fast\5th sem\Web Programming\project\facebook project\facebook\facebook\facebook\bin\DotNetOpenAuth.AspNet.dll
+E:\uni\fast\5th sem\Web Programming\project\facebook project\facebook\facebook\facebook\bin\DotNetOpenAuth.Core.dll
+E:\uni\fast\5th sem\Web Programming\project\facebook project\facebook\facebook\facebook\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\uni\fast\5th sem\Web Programming\project\facebook project\facebook\facebook\facebook\bin\DotNetOpenAuth.OAuth.dll
+E:\uni\fast\5th sem\Web Programming\project\facebook project\facebook\facebook\facebook\bin\DotNetOpenAuth.OpenId.dll
+E:\uni\fast\5th sem\Web Programming\project\facebook project\facebook\facebook\facebook\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\uni\fast\5th sem\Web Programming\project\facebook project\facebook\facebook\facebook\bin\EntityFramework.dll
+E:\uni\fast\5th sem\Web Programming\project\facebook project\facebook\facebook\facebook\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\uni\fast\5th sem\Web Programming\project\facebook project\facebook\facebook\facebook\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+E:\uni\fast\5th sem\Web Programming\project\facebook project\facebook\facebook\facebook\bin\Microsoft.Web.Infrastructure.dll
+E:\uni\fast\5th sem\Web Programming\project\facebook project\facebook\facebook\facebook\bin\System.Web.Providers.dll
+E:\uni\fast\5th sem\Web Programming\project\facebook project\facebook\facebook\facebook\bin\EntityFramework.xml
+E:\uni\fast\5th sem\Web Programming\project\facebook project\facebook\facebook\facebook\bin\DotNetOpenAuth.Core.xml
+E:\uni\fast\5th sem\Web Programming\project\facebook project\facebook\facebook\facebook\bin\DotNetOpenAuth.OAuth.xml
+E:\uni\fast\5th sem\Web Programming\project\facebook project\facebook\facebook\facebook\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\uni\fast\5th sem\Web Programming\project\facebook project\facebook\facebook\facebook\bin\DotNetOpenAuth.OpenId.xml
+E:\uni\fast\5th sem\Web Programming\project\facebook project\facebook\facebook\facebook\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\uni\fast\5th sem\Web Programming\project\facebook project\facebook\facebook\facebook\bin\DotNetOpenAuth.AspNet.xml
+E:\uni\fast\5th sem\Web Programming\project\facebook project\facebook\facebook\facebook\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+E:\uni\fast\5th sem\Web Programming\project\facebook project\facebook\facebook\facebook\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\uni\fast\5th sem\Web Programming\project\facebook project\facebook\facebook\facebook\obj\Debug\facebook.csprojResolveAssemblyReference.cache
+E:\uni\fast\5th sem\Web Programming\project\facebook project\facebook\facebook\facebook\obj\Debug\facebook.dll
+E:\uni\fast\5th sem\Web Programming\project\facebook project\facebook\facebook\facebook\obj\Debug\facebook.pdb

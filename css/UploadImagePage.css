@@ -1,0 +1,120 @@
+*
+{
+padding:0px;
+margin:0px;
+}
+#up{
+height:100px;
+width:100%;
+background-color:#3b5998;
+vertical-align:top;
+padding:0px;
+margin:0px;
+}
+#fblogo
+{
+color:white;
+padding-top:40px;
+padding-left:150px;
+font-size:40px;
+}
+#upleft
+{
+
+width:60%;
+height:86px;
+float:left;
+}
+#upright
+{
+
+width:40%;
+height:86px;
+float:right;
+
+}
+.checkboxcss
+{
+background: white;
+border:1px double #DDD;
+color:#666;
+width:150px;
+outline:#000000 solid thin ;
+}
+
+.checkboxcss2
+{
+margin-top:5px;
+border: 1px double #DDD;
+background: white;
+color: #666;
+border-radius: 5px;
+width: 150px;
+
+}
+#upright2
+{
+
+width:50%;
+height:86px;
+float:right;
+}
+#upright1
+{
+
+width:50%;
+height:86px;
+float:left;
+
+}
+#bdy
+{
+width:100%;
+height:613px;
+background:#edf0f5;
+
+}
+#bordr
+{
+margin-top:20px;
+border-bottom: 1px solid #ccc;
+font-size: 1px;
+height: 8px;
+margin-left:160px;
+margin-bottom: 8px;
+width:70%;
+
+}
+ .foot
+ {
+ 
+ width:80%;
+ padding-bottom:10px;
+ padding-left:160px;
+ font-size:12px;
+ color:#3b78b4;
+ }
+
+ a
+ {
+ 
+text-decoration:none !important;
+color:#3b5998;
+ 
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

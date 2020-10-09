@@ -1,0 +1,131 @@
+﻿body 
+{
+      margin 0px 0px 0px 0px;
+ background-color:white;
+ width:100%;   
+ height:auto;
+ font-family:Helvetica, Arial, 'lucida grande',tahoma,verdana,arial,sans-serif;
+}
+
+.hr_class5
+{ 
+    color:#aaa;
+    padding: 0% 0% 0% 0%;
+    width:100%;
+    
+}
+
+.main_panel
+{
+  width:52%;
+  height:auto;
+  background-color:White;
+  border-style: solid;
+    border-width: 1px;
+    border-color:#f7f7f7;
+    float:left;
+    margin-left:8%;
+    margin-top:1%; 
+    text-align:left;
+      position:relative;
+      top:18px;
+}
+.main_panel_heading
+{
+    font-weight:bold;
+    padding-left:5%;
+    
+}
+
+.main_panel_notification_settings_pos
+{
+  
+  
+  position:relative;
+   float:right;
+  bottom:15px;  
+  font-size:10px; padding-left:2%; color:#3b5998; font-weight:lighter;
+  padding-right:2%; 
+}
+
+.main_panel_notification_settings_link
+{
+  
+  font-size:10px; padding-left:2%; color:#3b5998; font-weight:lighter; 
+  padding-right:3%;
+}
+
+
+  a:link    {color:#3b5998; text-decoration:none;}
+a:visited {color:#3b5998;text-decoration:none;}
+a:hover   {text-decoration:underline;}
+a:active  {color:#3b5998;text-decoration:none;}
+
+
+.get_notification_via
+{
+    float:left;
+    padding-left:5%;
+    font-size:12px;
+    font-weight:bold;
+    color:#9197a3;
+}
+
+.time_heading
+{
+  font-weight:bold;
+  font-size:small;
+  padding-left:7%;   
+}
+
+.notifications_panel
+{
+    height:40px;
+    font-size:12px;
+    color: #141823;
+line-height: 1.28;
+padding-left:5%;
+    
+}
+
+.notification_panel_img
+{
+    
+  padding-top:10px;
+  
+  
+}
+.notifications_panel:hover
+{ background-color:#dfe3ee;}
+
+
+.people_you_may_know
+{ 
+    position: absolute;
+    left:830px;   
+     top:385px;
+    width:300px;
+    height:300px;
+    background-color:White;
+    font-size:large;
+    font-weight:bold;
+    color:Gray;
+    padding-left:10px;
+    padding-top:10px;
+}
+
+
+
+.ads
+{
+    font-weight:bold;
+    padding-left:10px;
+    padding-top:10px;
+    position: absolute;
+    left:830px;     
+    background-color:White;
+    top:65px;
+    width:300px;
+    height:300px; 
+    color:Gray;
+}
